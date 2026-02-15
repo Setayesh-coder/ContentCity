@@ -62,7 +62,7 @@ export default function Home() {
       {/* Features */}
       <div className="container mx-auto px-4">
         <section className="container py-24">
-          <h2 className="mb-16 text-center text-4xl font-bold">چرا هزاران نفر این بوت‌کمپ رو انتخاب کردن؟</h2>
+          <h2 className="mb-16 text-center text-4xl font-bold">چرا توی این بوت‌کمپ شرکت کنیم؟</h2>
           <div className="grid gap-10 md:grid-cols-3">
             <Card className="border-primary/20">
               <CardHeader>
