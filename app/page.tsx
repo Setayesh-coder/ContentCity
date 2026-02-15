@@ -59,118 +59,120 @@ export default function Home() {
       </section>
 
       {/* Features */}
-      <section className="container py-24">
-        <h2 className="mb-16 text-center text-4xl font-bold">چرا هزاران نفر این بوت‌کمپ رو انتخاب کردن؟</h2>
-        <div className="grid gap-10 md:grid-cols-3">
-          <Card className="border-primary/20">
-            <CardHeader>
-              <Brain className="mb-4 h-12 w-12 text-primary" />
-              <CardTitle>آموزش عمیق و سیستمی</CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-2">
-              <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> از روانشناسی تا AI</p>
-              <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> چرخه کامل محتوا</p>
-            </CardContent>
-          </Card>
+      <div className="container mx-auto px-4">
+        <section className="container py-24">
+          <h2 className="mb-16 text-center text-4xl font-bold">چرا هزاران نفر این بوت‌کمپ رو انتخاب کردن؟</h2>
+          <div className="grid gap-10 md:grid-cols-3">
+            <Card className="border-primary/20">
+              <CardHeader>
+                <Brain className="mb-4 h-12 w-12 text-primary" />
+                <CardTitle>آموزش عمیق و سیستمی</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-2">
+                <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> از روانشناسی تا AI</p>
+                <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> چرخه کامل محتوا</p>
+              </CardContent>
+            </Card>
 
-          <Card className="border-primary/20">
-            <CardHeader>
-              <Zap className="mb-4 h-12 w-12 text-primary" />
-              <CardTitle>تمرین واقعی با فشار بازار</CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-2">
-              <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> تسک هفتگی + ریویو عمومی</p>
-              <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> پروژه روی برند واقعی</p>
-            </CardContent>
-          </Card>
+            <Card className="border-primary/20">
+              <CardHeader>
+                <Zap className="mb-4 h-12 w-12 text-primary" />
+                <CardTitle>تمرین واقعی با فشار بازار</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-2">
+                <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> تسک هفتگی + ریویو عمومی</p>
+                <p className="flex items-center gap-2"><Check className="h-5 w-5 text-green-500" /> پروژه روی برند واقعی</p>
+              </CardContent>
+            </Card>
 
-          <Card className="border-primary/20">
-            <CardHeader>
-              <Users className="mb-4 h-12 w-12 text-primary" />
-              <CardTitle>منتورهای حرفه‌ای فعال</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="grid grid-cols-2 gap-4 mt-4">
-                {mentors.map((m, i) => (
-                  <div key={i} className="text-center">
-                    <div className="font-semibold">{m.name}</div>
-                    <div className="text-sm text-muted-foreground">{m.role}</div>
-                  </div>
-                ))}
-              </div>
-            </CardContent>
-          </Card>
-        </div>
-      </section>
-
-      {/* Timeline */}
-      <section className="container py-24 bg-muted/50">
-        <h2 className="mb-16 text-center text-4xl font-bold">مسیر ۱۰ هفته‌ای تحول</h2>
-        <div className="mx-auto max-w-5xl">
-          <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-5">
-            {weeks.map((w, i) => (
-              <Card key={i} className="relative text-center hover:shadow-lg transition-shadow">
-                <CardHeader>
-                  <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-primary text-2xl font-bold text-primary-foreground">
-                    {w.week}
-                  </div>
-                  <CardTitle className="text-lg">{w.title}</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <p className="text-sm text-muted-foreground">{w.desc}</p>
-                </CardContent>
-                {i < weeks.length - 1 && (
-                  <ArrowRight className="absolute -right-6 top-1/2 hidden -translate-y-1/2 text-muted-foreground lg:block" />
-                )}
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Testimonials */}
-      <section className="container py-24">
-        <h2 className="mb-16 text-center text-4xl font-bold">نظرات شرکت‌کنندگان</h2>
-        <div className="grid gap-10 md:grid-cols-2">
-          {testimonials.map((t, i) => (
-            <Card key={i}>
-              <CardContent className="pt-8">
-                <Quote className="mb-6 h-10 w-10 text-primary/20" />
-                <p className="text-lg italic mb-6">{t.text}</p>
-                <div className="flex items-center gap-4">
-                  <div className="h-12 w-12 rounded-full bg-muted" />
-                  <div>
-                    <div className="font-semibold">{t.name}</div>
-                    <div className="text-sm text-muted-foreground">{t.role}</div>
-                  </div>
-                  <div className="ml-auto flex gap-1">
-                    {[...Array(5)].map((_, s) => <Star key={s} className="h-5 w-5 fill-yellow-500 text-yellow-500" />)}
-                  </div>
+            <Card className="border-primary/20">
+              <CardHeader>
+                <Users className="mb-4 h-12 w-12 text-primary" />
+                <CardTitle>منتورهای حرفه‌ای فعال</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="grid grid-cols-2 gap-4 mt-4">
+                  {mentors.map((m, i) => (
+                    <div key={i} className="text-center">
+                      <div className="font-semibold">{m.name}</div>
+                      <div className="text-sm text-muted-foreground">{m.role}</div>
+                    </div>
+                  ))}
                 </div>
               </CardContent>
             </Card>
-          ))}
-        </div>
-      </section>
+          </div>
+        </section>
 
-      {/* Pricing + Final CTA */}
-      <section className="container py-24">
-        <div className="mx-auto max-w-3xl text-center">
-          <h2 className="mb-8 text-4xl font-bold">همین حالا شروع کن</h2>
-          <Card className="border-2 border-primary">
-            <CardHeader>
-              <CardTitle className="text-4xl">۹,۹۰۰,۰۰۰ تومان</CardTitle>
-              <CardDescription className="text-xl">۱۰ هفته کامل + منتورینگ + پروژه واقعی + پورتفولیو</CardDescription>
-            </CardHeader>
-            <CardFooter className="flex flex-col gap-4">
-              <Button size="lg" className="w-full text-lg gap-3">
-                ثبت‌نام و پرداخت امن <ArrowRight className="h-6 w-6" />
-              </Button>
-              <p className="text-sm text-muted-foreground">ظرفیت محدود • گارانتی بازگشت وجه در هفته اول</p>
-            </CardFooter>
-          </Card>
-        </div>
-      </section>
+        {/* Timeline */}
+        <section className="container py-24 bg-muted/50">
+          <h2 className="mb-16 text-center text-4xl font-bold">مسیر ۱۰ هفته‌ای تحول</h2>
+          <div className="mx-auto max-w-5xl">
+            <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-5">
+              {weeks.map((w, i) => (
+                <Card key={i} className="relative text-center hover:shadow-lg transition-shadow">
+                  <CardHeader>
+                    <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-primary text-2xl font-bold text-primary-foreground">
+                      {w.week}
+                    </div>
+                    <CardTitle className="text-lg">{w.title}</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-sm text-muted-foreground">{w.desc}</p>
+                  </CardContent>
+                  {i < weeks.length - 1 && (
+                    <ArrowRight className="absolute -right-6 top-1/2 hidden -translate-y-1/2 text-muted-foreground lg:block" />
+                  )}
+                </Card>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Testimonials */}
+        <section className="container py-24">
+          <h2 className="mb-16 text-center text-4xl font-bold">نظرات شرکت‌کنندگان</h2>
+          <div className="grid gap-10 md:grid-cols-2">
+            {testimonials.map((t, i) => (
+              <Card key={i}>
+                <CardContent className="pt-8">
+                  <Quote className="mb-6 h-10 w-10 text-primary/20" />
+                  <p className="text-lg italic mb-6">{t.text}</p>
+                  <div className="flex items-center gap-4">
+                    <div className="h-12 w-12 rounded-full bg-muted" />
+                    <div>
+                      <div className="font-semibold">{t.name}</div>
+                      <div className="text-sm text-muted-foreground">{t.role}</div>
+                    </div>
+                    <div className="ml-auto flex gap-1">
+                      {[...Array(5)].map((_, s) => <Star key={s} className="h-5 w-5 fill-yellow-500 text-yellow-500" />)}
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </section>
+
+        {/* Pricing + Final CTA */}
+        <section className="container py-24">
+          <div className="mx-auto max-w-3xl text-center">
+            <h2 className="mb-8 text-4xl font-bold">همین حالا شروع کن</h2>
+            <Card className="border-2 border-primary">
+              <CardHeader>
+                <CardTitle className="text-4xl">۹,۹۰۰,۰۰۰ تومان</CardTitle>
+                <CardDescription className="text-xl">۱۰ هفته کامل + منتورینگ + پروژه واقعی + پورتفولیو</CardDescription>
+              </CardHeader>
+              <CardFooter className="flex flex-col gap-4">
+                <Button size="lg" className="w-full text-lg gap-3">
+                  ثبت‌نام و پرداخت امن <ArrowRight className="h-6 w-6" />
+                </Button>
+                <p className="text-sm text-muted-foreground">ظرفیت محدود • گارانتی بازگشت وجه در هفته اول</p>
+              </CardFooter>
+            </Card>
+          </div>
+        </section>
+      </div>
     </div>
   );
 }
