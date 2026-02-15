@@ -47,12 +47,13 @@ export default function Home() {
               بوت‌کمپ ۱۰ هفته‌ای حرفه‌ای با پروژه واقعی، منتورینگ پیشرفته و فیلتر سخت‌گیرانه
             </p>
             <div className="mt-12 flex flex-col gap-6 sm:flex-row sm:justify-center">
-              <Button size="lg" className="gap-3 text-lg px-8">
-                ثبت‌نام فوری <ArrowLeft className="h-6 w-6" />
-              </Button>
               <Button size="lg" variant="outline" className="text-lg px-8">
                 دانلود سیلابس کامل
               </Button>
+              <Button size="lg" className="gap-3 text-lg px-8">
+                ثبت‌نام فوری <ArrowLeft className="h-6 w-6" />
+              </Button>
+
             </div>
           </div>
         </div>
