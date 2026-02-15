@@ -2,7 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { ArrowRight, Check, Users, Zap, Brain, Calendar, Star, Quote } from "lucide-react";
+import { ArrowLeft, Check, Users, Zap, Brain, Calendar, Star, Quote } from "lucide-react";
 
 const weeks = [
   { week: "۱", title: "Content Thinking", desc: "تفکر سیستمی، تحلیل برند، فرضیه رشد" },
@@ -48,7 +48,7 @@ export default function Home() {
             </p>
             <div className="mt-12 flex flex-col gap-6 sm:flex-row sm:justify-center">
               <Button size="lg" className="gap-3 text-lg px-8">
-                ثبت‌نام فوری <ArrowRight className="h-6 w-6" />
+                ثبت‌نام فوری <ArrowLeft className="h-6 w-6" />
               </Button>
               <Button size="lg" variant="outline" className="text-lg px-8">
                 دانلود سیلابس کامل
@@ -121,7 +121,7 @@ export default function Home() {
                     <p className="text-sm text-muted-foreground">{w.desc}</p>
                   </CardContent>
                   {i < weeks.length - 1 && (
-                    <ArrowRight className="absolute -right-6 top-1/2 hidden -translate-y-1/2 text-muted-foreground lg:block" />
+                    <ArrowLeft className="absolute -right-6 top-1/2 hidden -translate-y-1/2 text-muted-foreground lg:block" />
                   )}
                 </Card>
               ))}
@@ -165,7 +165,7 @@ export default function Home() {
               </CardHeader>
               <CardFooter className="flex flex-col gap-4">
                 <Button size="lg" className="w-full text-lg gap-3">
-                  ثبت‌نام و پرداخت امن <ArrowRight className="h-6 w-6" />
+                  ثبت‌نام و پرداخت امن <ArrowLeft className="h-6 w-6" />
                 </Button>
                 <p className="text-sm text-muted-foreground">ظرفیت محدود • گارانتی بازگشت وجه در هفته اول</p>
               </CardFooter>
