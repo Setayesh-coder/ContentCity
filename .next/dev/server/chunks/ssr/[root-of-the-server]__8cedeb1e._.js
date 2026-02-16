@@ -364,17 +364,17 @@ function Home() {
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "text-5xl font-extrabold tracking-tight md:text-7xl",
+                                className: "text-5xl font-extrabold tracking-tight md:text-7xl ",
                                 children: [
-                                    "ما تولیدکننده پست تربیت نمی‌کنیم",
+                                    "ما تولیدکننده محتوای روزمره تربیت نمی‌کنیم",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
                                         lineNumber: 41,
-                                        columnNumber: 47
+                                        columnNumber: 57
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent",
-                                        children: "ما معمار محتوا می‌سازیم"
+                                        className: "bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent ",
+                                        children: "ما معمار استراتژیک محتوا پرورش می‌دهیم!"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
                                         lineNumber: 42,
@@ -399,6 +399,16 @@ function Home() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
                                         size: "lg",
+                                        variant: "outline",
+                                        className: "text-lg px-8",
+                                        children: "دانلود سیلابس کامل"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
+                                        lineNumber: 50,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
+                                        size: "lg",
                                         className: "gap-3 text-lg px-8",
                                         children: [
                                             "ثبت‌نام فوری ",
@@ -406,21 +416,11 @@ function Home() {
                                                 className: "h-6 w-6"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 51,
+                                                lineNumber: 54,
                                                 columnNumber: 30
                                             }, this)
                                         ]
                                     }, void 0, true, {
-                                        fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                        lineNumber: 50,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                                        size: "lg",
-                                        variant: "outline",
-                                        className: "text-lg px-8",
-                                        children: "دانلود سیلابس کامل"
-                                    }, void 0, false, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
                                         lineNumber: 53,
                                         columnNumber: 15
@@ -455,10 +455,10 @@ function Home() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 className: "mb-16 text-center text-4xl font-bold",
-                                children: "چرا هزاران نفر این بوت‌کمپ رو انتخاب کردن؟"
+                                children: "چرا توی این بوت‌کمپ شرکت کنیم؟"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                lineNumber: 64,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -473,20 +473,20 @@ function Home() {
                                                         className: "mb-4 h-12 w-12 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 68,
+                                                        lineNumber: 69,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardTitle"], {
                                                         children: "آموزش عمیق و سیستمی"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 69,
+                                                        lineNumber: 70,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 67,
+                                                lineNumber: 68,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
@@ -499,14 +499,14 @@ function Home() {
                                                                 className: "h-5 w-5 text-green-500"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                lineNumber: 72,
+                                                                lineNumber: 73,
                                                                 columnNumber: 56
                                                             }, this),
                                                             " از روانشناسی تا AI"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 72,
+                                                        lineNumber: 73,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -516,26 +516,26 @@ function Home() {
                                                                 className: "h-5 w-5 text-green-500"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                lineNumber: 73,
+                                                                lineNumber: 74,
                                                                 columnNumber: 56
                                                             }, this),
                                                             " چرخه کامل محتوا"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 73,
+                                                        lineNumber: 74,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 71,
+                                                lineNumber: 72,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                        lineNumber: 66,
+                                        lineNumber: 67,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -547,20 +547,20 @@ function Home() {
                                                         className: "mb-4 h-12 w-12 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 79,
+                                                        lineNumber: 80,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardTitle"], {
                                                         children: "تمرین واقعی با فشار بازار"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 80,
+                                                        lineNumber: 81,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 78,
+                                                lineNumber: 79,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
@@ -573,14 +573,14 @@ function Home() {
                                                                 className: "h-5 w-5 text-green-500"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                lineNumber: 83,
+                                                                lineNumber: 84,
                                                                 columnNumber: 56
                                                             }, this),
                                                             " تسک هفتگی + ریویو عمومی"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 83,
+                                                        lineNumber: 84,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -590,26 +590,26 @@ function Home() {
                                                                 className: "h-5 w-5 text-green-500"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                lineNumber: 84,
+                                                                lineNumber: 85,
                                                                 columnNumber: 56
                                                             }, this),
                                                             " پروژه روی برند واقعی"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 84,
+                                                        lineNumber: 85,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 82,
+                                                lineNumber: 83,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                        lineNumber: 77,
+                                        lineNumber: 78,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -621,20 +621,20 @@ function Home() {
                                                         className: "mb-4 h-12 w-12 text-primary"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 90,
+                                                        lineNumber: 91,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardTitle"], {
                                                         children: "منتورهای حرفه‌ای فعال"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 91,
+                                                        lineNumber: 92,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 89,
+                                                lineNumber: 90,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
@@ -648,7 +648,7 @@ function Home() {
                                                                     children: m.name
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                    lineNumber: 97,
+                                                                    lineNumber: 98,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -656,41 +656,41 @@ function Home() {
                                                                     children: m.role
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                    lineNumber: 98,
+                                                                    lineNumber: 99,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, i, true, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 96,
+                                                            lineNumber: 97,
                                                             columnNumber: 21
                                                         }, this))
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 94,
+                                                    lineNumber: 95,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                lineNumber: 93,
+                                                lineNumber: 94,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                        lineNumber: 88,
+                                        lineNumber: 89,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                lineNumber: 65,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                        lineNumber: 63,
+                        lineNumber: 64,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -701,7 +701,7 @@ function Home() {
                                 children: "مسیر ۱۰ هفته‌ای تحول"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                lineNumber: 109,
+                                lineNumber: 110,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -718,7 +718,7 @@ function Home() {
                                                             children: w.week
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 115,
+                                                            lineNumber: 116,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardTitle"], {
@@ -726,13 +726,13 @@ function Home() {
                                                             children: w.title
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 118,
+                                                            lineNumber: 119,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 114,
+                                                    lineNumber: 115,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
@@ -741,41 +741,41 @@ function Home() {
                                                         children: w.desc
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                        lineNumber: 121,
+                                                        lineNumber: 122,
                                                         columnNumber: 21
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 120,
+                                                    lineNumber: 121,
                                                     columnNumber: 19
                                                 }, this),
                                                 i < weeks.length - 1 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$left$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowLeft$3e$__["ArrowLeft"], {
                                                     className: "absolute -right-6 top-1/2 hidden -translate-y-1/2 text-muted-foreground lg:block"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 124,
+                                                    lineNumber: 125,
                                                     columnNumber: 21
                                                 }, this)
                                             ]
                                         }, i, true, {
                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                            lineNumber: 113,
+                                            lineNumber: 114,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                    lineNumber: 111,
+                                    lineNumber: 112,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                lineNumber: 110,
+                                lineNumber: 111,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                        lineNumber: 108,
+                        lineNumber: 109,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -786,7 +786,7 @@ function Home() {
                                 children: "نظرات شرکت‌کنندگان"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                lineNumber: 134,
+                                lineNumber: 135,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -799,7 +799,7 @@ function Home() {
                                                     className: "mb-6 h-10 w-10 text-primary/20"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 139,
+                                                    lineNumber: 140,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -807,7 +807,7 @@ function Home() {
                                                     children: t.text
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 140,
+                                                    lineNumber: 141,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -817,7 +817,7 @@ function Home() {
                                                             className: "h-12 w-12 rounded-full bg-muted"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 142,
+                                                            lineNumber: 143,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -827,7 +827,7 @@ function Home() {
                                                                     children: t.name
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                    lineNumber: 144,
+                                                                    lineNumber: 145,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -835,13 +835,13 @@ function Home() {
                                                                     children: t.role
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                    lineNumber: 145,
+                                                                    lineNumber: 146,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 143,
+                                                            lineNumber: 144,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -852,40 +852,40 @@ function Home() {
                                                                     className: "h-5 w-5 fill-yellow-500 text-yellow-500"
                                                                 }, s, false, {
                                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                                    lineNumber: 148,
+                                                                    lineNumber: 149,
                                                                     columnNumber: 52
                                                                 }, this))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 147,
+                                                            lineNumber: 148,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 141,
+                                                    lineNumber: 142,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                            lineNumber: 138,
+                                            lineNumber: 139,
                                             columnNumber: 17
                                         }, this)
                                     }, i, false, {
                                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                        lineNumber: 137,
+                                        lineNumber: 138,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                lineNumber: 135,
+                                lineNumber: 136,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                        lineNumber: 133,
+                        lineNumber: 134,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -898,7 +898,7 @@ function Home() {
                                     children: "همین حالا شروع کن"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                    lineNumber: 160,
+                                    lineNumber: 161,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -911,7 +911,7 @@ function Home() {
                                                     children: "۹,۹۰۰,۰۰۰ تومان"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 163,
+                                                    lineNumber: 164,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardDescription"], {
@@ -919,13 +919,13 @@ function Home() {
                                                     children: "۱۰ هفته کامل + منتورینگ + پروژه واقعی + پورتفولیو"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 164,
+                                                    lineNumber: 165,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                            lineNumber: 162,
+                                            lineNumber: 163,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$ContentCity$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardFooter"], {
@@ -940,13 +940,13 @@ function Home() {
                                                             className: "h-6 w-6"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                            lineNumber: 168,
+                                                            lineNumber: 169,
                                                             columnNumber: 40
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 167,
+                                                    lineNumber: 168,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Khesht$2e$co$2f$ContentCity$2f$comp__$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -954,36 +954,36 @@ function Home() {
                                                     children: "ظرفیت محدود • گارانتی بازگشت وجه در هفته اول"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                                    lineNumber: 170,
+                                                    lineNumber: 171,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                            lineNumber: 166,
+                                            lineNumber: 167,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                                    lineNumber: 161,
+                                    lineNumber: 162,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                            lineNumber: 159,
+                            lineNumber: 160,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                        lineNumber: 158,
+                        lineNumber: 159,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/Desktop/Khesht.co/ContentCity/comp /ContentCity/app/page.tsx",
-                lineNumber: 62,
+                lineNumber: 63,
                 columnNumber: 7
             }, this)
         ]

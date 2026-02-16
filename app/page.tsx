@@ -37,10 +37,10 @@ export default function Home() {
         <div className="container relative z-10 mx-auto px-4">
           <div className="mx-auto max-w-5xl text-center">
             <Badge variant="secondary" className="mb-6 text-lg">ظرفیت محدود • شروع بعدی: به‌زودی</Badge>
-            <h1 className="text-5xl font-extrabold tracking-tight md:text-7xl">
-              ما تولیدکننده پست تربیت نمی‌کنیم<br />
-              <span className="bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-                ما معمار محتوا می‌سازیم
+            <h1 className="text-5xl font-extrabold tracking-tight md:text-7xl ">
+            بوت‌کمپ کانتنت سیتی<br />
+              <span className="bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent ">
+               آخرین بوت‌کمپی که به آن نیاز دارید
               </span>
             </h1>
             <p className="mt-8 text-xl text-muted-foreground md:text-2xl">
